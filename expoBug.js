@@ -1,0 +1,1 @@
+While using Expo CLI, I encountered an issue where the development server would randomly stop responding and show a blank screen.  Restarting the server usually temporarily resolved it, but the problem would recur unpredictably.  No specific error messages were logged in the terminal or the Expo Go app.
